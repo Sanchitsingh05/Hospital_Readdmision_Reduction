@@ -5,7 +5,7 @@ This project aims to explore and analyze hospital readmission data under the **H
 
 ## 📂 Dataset
 
-* **Source**: *U.S. Centers for Medicare & Medicaid Services* (hosted locally)
+* **Source**: [Hospital Readmissions Reduction Dataset](https://github.com/Sanchitsingh05/Hospital_Readdmision_Reduction/blob/main/Hospital_Readmissions_Reduction_Program%20(3).csv)
 * Columns include:
 
   * `Hospital Name`
